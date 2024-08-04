@@ -20,6 +20,11 @@
           ipv4 = [ "172.16.0.3/32" ];
         };
 
+        plainsoap = {
+          publicKey = "Ny174Y9j9hEdtsJsawf6InMa6opVjoAF075gWL42n3g=";
+          ipv4 = [ "172.16.0.146" ];
+        };
+
         killerking = {
           publicKey = "HIicW5mMmbWfvizzlRsnsJRew9GMRsagAjrTPD7kv28=";
           ipv4 = [ "172.16.0.183/32" ];
