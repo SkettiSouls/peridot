@@ -20,6 +20,11 @@
           ipv4 = [ "172.16.0.3/32" ];
         };
 
+        killerking = {
+          publicKey = "HIicW5mMmbWfvizzlRsnsJRew9GMRsagAjrTPD7kv28=";
+          ipv4 = [ "172.16.0.183/32" ];
+        };
+
         cadmium = {
           publicKey = "bINm4e9feL6rZmvpGA1HmV9ZANM+RfrKx1B2GzkvDw4=";
           ipv4 = [ "172.16.0.255/32" ];
