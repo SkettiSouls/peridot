@@ -31,7 +31,7 @@
         };
 
         cadmium = {
-          publicKey = "bINm4e9feL6rZmvpGA1HmV9ZANM+RfrKx1B2GzkvDw4=";
+          publicKey = "oAn+TDykHZNIMtvsRPcz496AhmIlEaMqE1t7dAr6Mwo=";
           ipv4 = [ "172.16.0.255/32" ];
         };
       };
