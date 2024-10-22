@@ -26,7 +26,7 @@
         };
 
         killerking = {
-          publicKey = "HIicW5mMmbWfvizzlRsnsJRew9GMRsagAjrTPD7kv28=";
+          publicKey = "sa51jFzlCBZlsjio+k4ZAnwvIm0aV0BZfHgPHZNbE1U=";
           ipv4 = [ "172.16.0.183/32" ];
         };
 
